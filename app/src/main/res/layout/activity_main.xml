@@ -9,10 +9,9 @@
     tools:ignore="ExtraText">
 
 
-
     <Button
         android:id="@+id/button0"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="0"
@@ -20,16 +19,16 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.010"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.010"
         app:layout_constraintVertical_bias="1.0"
         tools:ignore="MissingConstraints" />
 
 
     <Button
         android:id="@+id/button30"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="."
@@ -43,7 +42,7 @@
 
     <Button
         android:id="@+id/button13"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#E1BEE7"
         android:text="="
@@ -57,7 +56,7 @@
 
     <Button
         android:id="@+id/button14"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="+"
@@ -65,15 +64,15 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.99"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.99"
         app:layout_constraintVertical_bias="1.0"
         tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button1"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="1"
@@ -89,7 +88,7 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="2"
@@ -98,15 +97,15 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.335"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.335"
         app:layout_constraintVertical_bias="0.92"
         tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="3"
@@ -114,15 +113,15 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.665"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.665"
         app:layout_constraintVertical_bias="0.92"
         tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button15"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="–"
@@ -130,17 +129,15 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.99"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.99"
-        app:layout_constraintVertical_bias="0.92"
-        />
-
+        app:layout_constraintVertical_bias="0.92" />
 
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="4"
@@ -148,15 +145,14 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.010"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.010"
-        app:layout_constraintVertical_bias="0.84"
-        />
+        app:layout_constraintVertical_bias="0.84" />
 
     <Button
         android:id="@+id/button5"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="5"
@@ -164,15 +160,14 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.3350"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.3350"
-        app:layout_constraintVertical_bias="0.84"
-        />
+        app:layout_constraintVertical_bias="0.84" />
 
     <Button
         android:id="@+id/button6"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="6"
@@ -180,15 +175,14 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.665"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.665"
-        app:layout_constraintVertical_bias="0.84"
-        />
+        app:layout_constraintVertical_bias="0.84" />
 
     <Button
         android:id="@+id/button16"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="×"
@@ -196,17 +190,15 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.99"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.99"
-        app:layout_constraintVertical_bias="0.84"
-        />
-
+        app:layout_constraintVertical_bias="0.84" />
 
 
     <Button
         android:id="@+id/button7"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="7"
@@ -214,15 +206,14 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.01"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.01"
-        app:layout_constraintVertical_bias="0.76"
-        />
+        app:layout_constraintVertical_bias="0.76" />
 
     <Button
         android:id="@+id/button8"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="8"
@@ -230,17 +221,15 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.335"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.335"
-        app:layout_constraintVertical_bias="0.76"
-        />/>
-
+        app:layout_constraintVertical_bias="0.76" />/>
 
 
     <Button
         android:id="@+id/button9"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="9"
@@ -249,15 +238,14 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.665"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.665"
-        app:layout_constraintVertical_bias="0.76"
-        />
+        app:layout_constraintVertical_bias="0.76" />
 
     <Button
         android:id="@+id/button18"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="÷"
@@ -266,37 +254,35 @@
         android:translationX="2dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.99"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.99"
-        app:layout_constraintVertical_bias="0.76"
-        />
+        app:layout_constraintVertical_bias="0.76" />
 
 
     <Button
         android:id="@+id/button22"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#2196F3"
         android:text="切替"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.01"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.01"
-        app:layout_constraintVertical_bias="0.68"
-        />
+        app:layout_constraintVertical_bias="0.68" />
 
 
     <Button
         android:id="@+id/buttonans"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="145dp"
+        android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="Ans"
         android:textColor="#01020E"
-        android:textSize="30sp"
+        android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.335"
@@ -306,40 +292,38 @@
 
     <Button
         android:id="@+id/button20"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="▶"
-        android:textColor="#01020E"
         android:textAlignment="center"
+        android:textColor="#01020E"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.665"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.665"
-        app:layout_constraintVertical_bias="0.68"
-        />
+        app:layout_constraintVertical_bias="0.68" />
 
     <Button
         android:id="@+id/button17"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#FF5722"
         android:text="CA"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.99"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.99"
-        app:layout_constraintVertical_bias="0.68"
-        />
+        app:layout_constraintVertical_bias="0.68" />
 
 
     <TextView
         android:id="@+id/textView6"
-        android:layout_width="400dp"
+        android:layout_width="550dp"
         android:layout_height="70dp"
         android:text="情報電卓"
         android:textColor="#01020E"
@@ -378,7 +362,7 @@
 
     <Button
         android:id="@+id/buttonA"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="等差"
@@ -386,17 +370,16 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.010"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.010"
         app:layout_constraintVertical_bias="1.0"
-        tools:ignore="MissingConstraints"
-        />
+        tools:ignore="MissingConstraints" />
 
 
     <Button
         android:id="@+id/buttonB"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="等比"
@@ -406,12 +389,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.335"
         app:layout_constraintStart_toStartOf="parent"
-        tools:ignore="MissingConstraints"
-        />
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/buttonC"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="!"
@@ -421,12 +403,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.665"
         app:layout_constraintStart_toStartOf="parent"
-        tools:ignore="MissingConstraints"
-        />
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/buttonD"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="C"
@@ -434,16 +415,15 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.99"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.99"
         app:layout_constraintVertical_bias="1.0"
-        tools:ignore="MissingConstraints"
-        />
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/buttonE"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="平均"
@@ -455,12 +435,11 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.92"
-        tools:ignore="MissingConstraints"
-        />
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/buttonF"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="分散"
@@ -469,16 +448,15 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.335"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.335"
         app:layout_constraintVertical_bias="0.92"
-        tools:ignore="MissingConstraints"
-        />
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/buttonG"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="MOD"
@@ -486,16 +464,15 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.665"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.665"
         app:layout_constraintVertical_bias="0.92"
-        tools:ignore="MissingConstraints"
-        />
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/buttonH"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="log"
@@ -503,17 +480,15 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.99"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.99"
-        app:layout_constraintVertical_bias="0.92"
-        />
-
+        app:layout_constraintVertical_bias="0.92" />
 
 
     <Button
         android:id="@+id/buttonI"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="√"
@@ -521,15 +496,14 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.010"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.010"
-        app:layout_constraintVertical_bias="0.84"
-        />
+        app:layout_constraintVertical_bias="0.84" />
 
     <Button
         android:id="@+id/buttonJ"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="冪乗"
@@ -537,15 +511,14 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.3350"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.3350"
-        app:layout_constraintVertical_bias="0.84"
-        />
+        app:layout_constraintVertical_bias="0.84" />
 
     <Button
         android:id="@+id/buttonK"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="逆元"
@@ -553,15 +526,14 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.665"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.665"
-        app:layout_constraintVertical_bias="0.84"
-        />
+        app:layout_constraintVertical_bias="0.84" />
 
     <Button
         android:id="@+id/buttonL"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="原始元"
@@ -577,7 +549,7 @@
 
     <Button
         android:id="@+id/buttonM"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="N⇒10"
@@ -593,7 +565,7 @@
 
     <Button
         android:id="@+id/buttonN"
-        android:layout_width="200dp"
+        android:layout_width="295dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="拡張ユークリッド"
@@ -639,7 +611,7 @@
 
     <Button
         android:id="@+id/buttonP"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#FFC400"
         android:text="決定"
@@ -654,8 +626,8 @@
 
     <Button
         android:id="@+id/buttonnext"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="145dp"
+        android:layout_height="60dp"
         android:backgroundTint="#FFEA00"
         android:text="次へ"
         android:textColor="#01020E"
@@ -670,7 +642,7 @@
 
     <Button
         android:id="@+id/buttonR"
-        android:layout_width="95dp"
+        android:layout_width="145dp"
         android:layout_height="60dp"
         android:backgroundTint="#9CB1B1"
         android:text="10⇒N"
@@ -682,8 +654,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.76"
-        tools:ignore="MissingConstraints"
-        />
+        tools:ignore="MissingConstraints" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
