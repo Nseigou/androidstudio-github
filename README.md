@@ -1,3 +1,3 @@
 # エムケイシステム様
 お世話になっております。
-masterのandroidstudio-githubにある
+masterのandroidstudio-githubにあるREADMEをご覧下さい。
