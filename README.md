@@ -1,3 +1,3 @@
 # エムケイシステム様
-#お世話になっております。
-# androidstudio-githubにある
+お世話になっております。
+masterのandroidstudio-githubにある
